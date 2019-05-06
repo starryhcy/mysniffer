@@ -1,0 +1,42 @@
+GET /?module=User&action=TopLogin HTTP/1.1
+Host: user.youbian.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: */*
+Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+Accept-Encoding: gzip, deflate
+Referer: http://www.youbian.com/o340221/
+Cookie: citypinyin=chengdu; Hm_lvt_fe3045541010f5837242d9ca48392f30=1557143674; Hm_lpvt_fe3045541010f5837242d9ca48392f30=1557143674
+DNT: 1
+Connection: keep-alive
+Cache-Control: max-age=0
+
+HTTP/1.1 404 Not Found
+Server: NWS_TCloud_S1
+Connection: keep-alive
+Date: Mon, 06 May 2019 11:55:01 GMT
+Content-Type: text/html
+Content-Length: 52
+X-NWS-LOG-UUID: 1896106323017923144 0c026250109aa87a072036850aed0547
+
+The requested URL '/' was not found on this server.
+GET /?module=User&action=TopLogin HTTP/1.1
+Host: user.youbian.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: */*
+Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+Accept-Encoding: gzip, deflate
+Referer: http://www.youbian.com/o340221/
+Cookie: citypinyin=chengdu; Hm_lvt_fe3045541010f5837242d9ca48392f30=1557143674; Hm_lpvt_fe3045541010f5837242d9ca48392f30=1557143674
+DNT: 1
+Connection: keep-alive
+Cache-Control: max-age=0
+
+HTTP/1.1 404 Not Found
+Server: NWS_TCloud_S1
+Connection: keep-alive
+Date: Mon, 06 May 2019 11:55:02 GMT
+Content-Type: text/html
+Content-Length: 52
+X-NWS-LOG-UUID: 5163903687876031023 0c026250109aa87a072036850aed0547
+
+The requested URL '/' was not found on this server.

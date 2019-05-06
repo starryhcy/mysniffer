@@ -1,0 +1,42 @@
+GET /themes/css/global.css?v=2018082115422 HTTP/1.1
+Host: www.youbian.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+Accept-Encoding: gzip, deflate
+Referer: http://www.youbian.com/o340221/
+Cookie: citypinyin=chengdu; Hm_lvt_fe3045541010f5837242d9ca48392f30=1557143674; Hm_lpvt_fe3045541010f5837242d9ca48392f30=1557143674
+DNT: 1
+Connection: keep-alive
+If-Modified-Since: Tue, 12 Aug 2014 01:42:28 GMT
+If-None-Match: W/"53e97104-1c7d"
+Cache-Control: max-age=0
+
+HTTP/1.1 304 Not Modified
+Server: nginx/1.10.3
+Date: Mon, 06 May 2019 11:55:01 GMT
+Last-Modified: Tue, 12 Aug 2014 01:42:28 GMT
+Connection: keep-alive
+ETag: "53e97104-1c7d"
+
+GET /css/zipstyle/reset.css?v=2018082115422 HTTP/1.1
+Host: www.youbian.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+Accept-Encoding: gzip, deflate
+Referer: http://www.youbian.com/o340221/
+Cookie: citypinyin=chengdu; Hm_lvt_fe3045541010f5837242d9ca48392f30=1557143674; Hm_lpvt_fe3045541010f5837242d9ca48392f30=1557143674
+DNT: 1
+Connection: keep-alive
+If-Modified-Since: Thu, 20 Sep 2018 02:24:56 GMT
+If-None-Match: W/"5ba304f8-ebd"
+Cache-Control: max-age=0
+
+HTTP/1.1 304 Not Modified
+Server: nginx/1.10.3
+Date: Mon, 06 May 2019 11:55:01 GMT
+Last-Modified: Thu, 20 Sep 2018 02:24:56 GMT
+Connection: keep-alive
+ETag: "5ba304f8-ebd"
+
